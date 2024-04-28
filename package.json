@@ -1,0 +1,24 @@
+{
+  "name": "pindie-startkit-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daria-Vd/pindie-startkit-server.git"
+  },
+  "author": "Daria-Vd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daria-Vd/pindie-startkit-server/issues"
+  },
+  "homepage": "https://github.com/Daria-Vd/pindie-startkit-server#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "3.2.5"
+  }
+}
